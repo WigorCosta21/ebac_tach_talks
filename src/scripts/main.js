@@ -1,6 +1,6 @@
 AOS.init();
 
-const dateEvent = new Date("Jul 01, 2023 19:00:00")
+const dateEvent = new Date("Ago 01, 2023 19:00:00")
 const timeStampEvent = dateEvent.getTime()
 
 countHours = setInterval(() => {
